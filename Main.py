@@ -7,5 +7,5 @@ for i in range(n):
     if a[i] > max1_val:
         max1_val = a[i]
 
-print("Max:", max1_val)
+print(max1_val)
 
